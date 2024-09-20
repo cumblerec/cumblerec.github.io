@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cumblerec.github.io/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/app/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/assets/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/css/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/data/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/includes/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/item/sitemap.html.gz
+Sitemap: https://cumblerec.github.io/src/sitemap.html.gz
